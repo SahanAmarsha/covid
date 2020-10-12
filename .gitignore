@@ -8,6 +8,8 @@
 app/node_modules
 app/.pnp
 app/.pnp.js
+package-lock.json
+.idea
 
 # Built pages
 docs/
